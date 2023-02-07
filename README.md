@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **frontend web Development**
 
-- 🌱 I’m currently learning **Fullstack web Development at ShapeAI**
+- 🌱 I’m currently learning **Fullstack web Development **
 
 - 📫 How to reach me **gk2329@srmist.edu.in**
 
